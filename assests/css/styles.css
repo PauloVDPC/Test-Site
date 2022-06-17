@@ -412,12 +412,11 @@ body .full-width {
 
     .menu-content, .menu-content ul {
         flex-direction: column;
-        height: 100vh;
         justify-content: center;
     }
 
     .menu-content {
-        height: 10vh;
+        height: 100vh;
     }
 
     .menu {
